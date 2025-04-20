@@ -139,13 +139,13 @@ See CONTRIBUTING.md for details.
 
 This project is licensed under the MIT License for non-commercial use. You are free to use, modify, and distribute the code, provided you retain the original copyright notice and license text.
 
-**For commercial use**, a paid license is required. Please contact \[your-email@example.com\] to obtain a commercial license and discuss licensing fees.
+**For commercial use**, a paid license is required. Please contact [zerralee.lab@gmail.com] to obtain a commercial license and discuss licensing fees.
 
 See LICENSE and COMMERCIAL_LICENSE.md for details.
 
 ## Contact
 
-For technical support or inquiries, email \[your-email@example.com\] or open a GitHub Issue.
+For technical support or inquiries, email [zerralee.lab@gmail.com] or open a GitHub Issue.
 
 ## Emergency Resources
 
